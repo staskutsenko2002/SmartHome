@@ -1,0 +1,14 @@
+/* 
+  User.strings
+  SmartHome
+
+  Created by Stanislav on 22.04.2023.
+  
+*/
+
+"user" = "Utilisateur(-rice)";
+
+"name" = "Nom et prénom: %@";
+"city" = "Ville: %@";
+"birthdate" = "Date de naissance: %@";
+"address" = "Adresse: %@";

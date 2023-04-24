@@ -1,0 +1,12 @@
+/* 
+  Common.strings
+  SmartHome
+
+  Created by Stanislav on 22.04.2023.
+  
+*/
+
+"refresh" = "Refrescar";
+"loading" = "Cargando";
+"no.devices.yet" = "Todavía no hay dispositivos.";
+"details" = "Detalles";

@@ -1,0 +1,26 @@
+/* 
+  DevicePage.strings
+  SmartHome
+
+  Created by Stanislav on 22.04.2023.
+  
+*/
+
+//Title
+"devices" = "מכשירים";
+
+//Roller
+"closed" = "סָגוּר";
+"opened.at" = "נפתח ב %@%%";
+"fully.opened" = "נפתח לגמרי";
+
+//Light
+"off" = "כבוי";
+"on.at.intensity" = "עַל בְּ- %@%% עָצמָה";
+"fully.on" = "לְגַמרֵי עַל";
+
+//Heater
+"on.at.temp" = "עַל בְּ- %@%°C";
+
+//Error
+"general.error.description" = "משהו השתבש. בבקשה נסה שוב.";

@@ -1,0 +1,12 @@
+/* 
+  Common.strings
+  SmartHome
+
+  Created by Stanislav on 22.04.2023.
+  
+*/
+
+"refresh" = "לְרַעֲנֵן";
+"loading" = "טוען";
+"no.devices.yet" = "עדיין אין מכשירים.";
+"details" = "פרטים";

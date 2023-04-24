@@ -1,0 +1,27 @@
+/* 
+  DevicePage.strings
+  SmartHome
+
+  Created by Stanislav on 22.04.2023.
+  
+*/
+
+//Title
+"devices" = "Les dispositifs";
+
+//Roller
+"closed" = "Fermé";
+"opened.at" = "Ouvert à %@%%";
+"fully.opened" = "Entièrement ouvert";
+
+//Light
+"off" = "OFF";
+"on.at.intensity" = "ON à %@%% intensité";
+"fully.on" = "Entièrement ON";
+
+//Heater
+"off" = "OFF";
+"on.at.temp" = "ON à %@%°C";
+
+//Error
+"general.error.description" = "Quelque chose a mal tourné. Veuillez réessayer.";
